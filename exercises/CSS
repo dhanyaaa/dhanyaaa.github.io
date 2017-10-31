@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color:lightgrey}
+h1   {color:orange}
+p    {color:black}
+</style>
+</head>
+<body>
+
+<h1>HeLlO</h1>
+
+<p>It is halloween!!!</p>
+
+</body>
+</html>
