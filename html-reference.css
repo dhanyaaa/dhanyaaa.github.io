@@ -1,0 +1,49 @@
+/*headings of elements*/
+.hstyle {
+    background-color: pink; 
+    font-family: "Trebuchet MS"
+    color:gray;
+    font-size:150%;
+}
+
+/*the rest of the box*/
+.rest {
+    background-color:lightgreen;
+    
+}
+
+/*Example box*/
+.example {
+    background-color:lightblue;
+    font-family: Monospace;
+    
+}
+
+/*Table*/
+#table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 200%;
+}
+
+#table td, #table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#table tr:nth-child(even){background-color: lightyellow}
+
+#table tr:hover {background-color: lightgreen;}
+
+#table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: pink;
+    color: gray;
+}
+
+/*font*/
+.body { 
+    font-family: Sans-Serif;
+} 
