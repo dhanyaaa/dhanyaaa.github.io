@@ -6,18 +6,26 @@
     font-size:150%;
 }
 
+
+
 /*the rest of the box*/
 .rest {
     background-color:lightgreen;
+    color: black;
     
 }
 
+
+
 /*Example box*/
 .example {
-    background-color:lightblue;
+    background-color:orange;
     font-family: Monospace;
+    color: white;
     
 }
+
+
 
 /*Table*/
 #table {
@@ -47,3 +55,15 @@
 .body { 
     font-family: Sans-Serif;
 } 
+
+.marginr {
+       margin-top: -20px; 
+       background-color:lightgreen;
+}
+
+.margine{
+    margin-top: -15px;
+    background-color:orange;
+     font-family: Monospace;
+    color: white;
+}
