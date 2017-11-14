@@ -1,0 +1,36 @@
+.content {
+  background-color:#f7e6ff;
+}
+
+.content p {
+  font-family:"Ariel", sans-serif;
+  color:black;
+}
+
+ul {
+    list-style: circle inside url('img_marker.png');
+}
+
+
+#restaurants {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#restaurants td, #restaurants th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#restaurants tr:nth-child(even){background-color: #f2f2f2;}
+
+#restaurants tr:hover {background-color: #ddd;}
+
+#restaurants th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
