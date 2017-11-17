@@ -7,9 +7,6 @@
   color:black;
 }
 
-ul {
-    list-style: circle inside url('img_marker.png');
-}
 
 
 #restaurants {
@@ -33,4 +30,8 @@ ul {
     text-align: left;
     background-color: #4CAF50;
     color: white;
+}
+
+ul {
+    list-style-type: square;
 }
